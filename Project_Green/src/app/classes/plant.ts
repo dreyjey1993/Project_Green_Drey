@@ -1,5 +1,3 @@
-import { File } from '@ionic-native/file';
-
 export class Plant {
     //basics
     id: string;
